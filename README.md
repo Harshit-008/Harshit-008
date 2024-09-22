@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshit-008
 - 👀 I’m interested in Machine learning & Artificial Intelligence
 - 🌱 I’m currently learning : Python and C++
-- 📫 How to reach me : 9660201133
+- 📫 How to reach me (instagram): _harsh.it_sharma
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You Know me 😄
 
