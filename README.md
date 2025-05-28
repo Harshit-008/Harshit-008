@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harshit Sharma
 - 👀 I’m interested in Machine learning & Artificial Intelligence
 - 🌱 I’m currently learning : Python and C++
-- 📫 How to reach me (instagram): _harsh.it_sharma
+- 📫 How to reach me (instagram): harshitsharma.me
 - 😄 Pronouns: He/Him
 
 
