@@ -16,7 +16,6 @@
 - 🛠️ Creating full-stack apps with **React.js**, **Node.js**, **MongoDB**, and **Express.js**
 - 🔥 Regularly grinding on **LeetCode** (`ImHarshitt`) and **GFG** to level up my skills
 - 🧠 Passionate about clean code, scalable systems, and intuitive UI/UX
-- 📬 Let's talk: `harshit.yourmail@gmail.com`
 
 ---
 
