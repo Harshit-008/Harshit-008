@@ -20,14 +20,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
 ### 🧠 Platforms I Practice On
 
 <p align="center">
@@ -35,7 +27,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/harshitslkk/" target="_blank">
     <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
 </p>
@@ -54,21 +46,21 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:harshit.yourmail@gmail.com" target="_blank">
+  <a href="mailto:harshitkar98k@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
          style="border-radius: 8px; transition: 0.3s; box-shadow: 0 0 0 transparent;"
          onmouseover="this.style.boxShadow='0 0 10px #D14836';"
          onmouseout="this.style.boxShadow='0 0 0 transparent';"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/imharshitt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
          style="border-radius: 8px; transition: 0.3s; box-shadow: 0 0 0 transparent;"
          onmouseover="this.style.boxShadow='0 0 10px #0A66C2';"
          onmouseout="this.style.boxShadow='0 0 0 transparent';"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/imharxhit" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
          style="border-radius: 12px; transition: 0.3s; box-shadow: 0 0 0 transparent;"
          onmouseover="this.style.boxShadow='0 0 15px #E4405F';"
