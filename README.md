@@ -1,13 +1,13 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Harshit</h1>
+<h3 align="center">A passionate developer from [India]</h3>
 
 <!-- Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 
 <!-- About Me -->
-- 🔭 I’m currently working on **[Project Name](#)**  
-- 🌱 I’m currently learning **[Tech you're learning]**  
+- 🔭 I’m currently working on **[W](#)**  
+- 🌱 I’m currently learning **[Java]**  
 - 💬 Ask me about **JavaScript, React, Node, etc.**  
 - 📫 How to reach me **your.email@example.com**  
 - ⚡ Fun fact: *I love coffee & building side projects!*
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
 </p>
 
 <!-- GitHub Stats -->
