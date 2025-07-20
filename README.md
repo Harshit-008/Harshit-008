@@ -1,7 +1,7 @@
 
 <!-- Banner Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007BFF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Harshit!;Java+DSA+%F0%9F%92%BB+%7C+MERN+Stack+Dev+%F0%9F%8C%90;React.js+%7C+Node.js+%7C+Problem+Solver+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00ff7f&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Harshit!;Java+DSA+%F0%9F%92%BB+%7C+MERN+Stack+Dev+%F0%9F%8C%90;React.js+%7C+Node.js+%7C+Problem+Solver+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <!-- Header -->
